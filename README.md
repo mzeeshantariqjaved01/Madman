@@ -4,6 +4,8 @@
 > pkg upgrade 
 > pkg install git -y
 > pkg install python2 -y
+> git clone https://github.com/The-Madman-Reborn/Madman
+> cd Madman
 > pkg install pip2
 > pip2 install requests 
 > pip2 install mechanize 
