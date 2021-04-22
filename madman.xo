@@ -2,6 +2,6 @@ import os
 import datetime
 import random
 
-print("madman command has some problem") 
-print("command again upload in few time") 
-print("Sorry for this issue") 
+print("----> madman command has some problem") 
+print("----> command again upload in few time") 
+print("----> Sorry for this issue") 
